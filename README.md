@@ -70,11 +70,7 @@ Inline code:
 Code block:
 
 ```
-```
-
 print("Hello")
-
-```
 ```
 
 ### Links
